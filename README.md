@@ -1,0 +1,2 @@
+# kado
+my first repo
